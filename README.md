@@ -5,8 +5,6 @@
 🔧 Currently working on Unreal Engine simulations. 
 
 ## 🔗 Connect with me  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JiaweiRen)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiaweiren)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/renjw02)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jiaweiren](https://www.linkedin.com/in/jiawe-ren-606936345/))  
 
-## 📊 GitHub Stats  
-![Jiawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaweiRen&show_icons=true&theme=default)  
